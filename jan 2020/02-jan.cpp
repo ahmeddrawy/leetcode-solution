@@ -1,6 +1,6 @@
 //
 // Created by ahmeddrawy on 1/2/2021.
-//
+// assuming that all nodes are unique
 
 class Solution {
 public:
