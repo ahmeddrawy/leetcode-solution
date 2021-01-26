@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(training_2020)
+project(leet-code)
 
 set(CMAKE_CXX_STANDARD 14)
 
